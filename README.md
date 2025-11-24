@@ -6,7 +6,7 @@
 
 # Company Report Generator 🔍
 
-![Web UI](src/assets/UI/web-ui.jpg)
+![Web UI](src/assets/ui/web-ui.jpg)
 
 ## Overview
 
@@ -16,7 +16,7 @@
 
 Watch the application in action:
 
-https://github.com/user-attachments/assets/eebc3684-c03d-40a0-b17f-f5200f78aab7
+https://github.com/user-attachments/assets/32ccc01b-58d9-4a5e-b1fb-3300db68e0e5
 
 **Demo Features:**
 - Real-time API key configuration
@@ -294,5 +294,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 
 
-**Author:** [Ahmad Deltoky](https://github.com/ahmdeltoky)
+**Author:** [Ahmad Eltoky](https://github.com/ahmdeltoky)
 **Email:** ahmdeltoky4@gmail.com
